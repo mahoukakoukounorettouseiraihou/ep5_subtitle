@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.95,0:00:15.37,Default,,0,0,0,,{\fad(0,300)\fs41\clip(150,44,172,130)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 22, 2096
+Dialogue: 0,0:00:12.95,0:00:17.24,Default,,0,0,0,,Yoshida, I've confirmed the signal\Nat the Tokyo Tower park.
+Dialogue: 0,0:00:17.24,0:00:20.62,Default,,0,0,0,,They're moving\Ntoward the Iikura intersection now.
+Dialogue: 0,0:00:20.62,0:00:22.04,Default,,0,0,0,,Roger.
+Dialogue: 0,0:00:22.04,0:00:26.54,Default,,0,0,0,,I'm currently close to the Toranomon\Nintersection on Sakurada Street.
+Dialogue: 0,0:00:26.54,0:00:28.87,Default,,0,0,0,,Changing course for the Iikura intersection.
+Dialogue: 0,0:00:28.87,0:00:31.04,Default,,0,0,0,,Please get there within ten minutes.
+Dialogue: 0,0:00:33.41,0:00:35.58,Default,,0,0,0,,I expect to be there in two.
+Dialogue: 0,0:00:37.87,0:00:39.79,Default,,0,0,0,,Looks like we'll make it in time.
+Dialogue: 0,0:00:41.16,0:00:44.33,Default,,0,0,0,,After Tatsuya left the meeting he called...
+Dialogue: 0,0:00:44.33,0:00:48.20,Default,,0,0,0,,the rest of us decided that I'd be in charge\Nof coordinating information for the parasite search.
+Dialogue: 0,0:00:48.20,0:00:54.24,Default,,0,0,0,,Meanwhile, Jumonji and Chiba\Nare leading the teams on the ground.
+Dialogue: 0,0:00:54.24,0:00:55.91,Default,,0,0,0,,Still...
+Dialogue: 0,0:00:55.91,0:01:01.41,Default,,0,0,0,,I don't mind that Tatsuya set up\Nthe parasite pursuit system...
+Dialogue: 0,0:01:01.41,0:01:04.87,Default,,0,0,0,,but I'm peeved by this feeling\Nthat he's using us.
+Dialogue: 0,0:01:07.79,0:01:09.54,Default,,0,0,0,,Just you wait.
+Dialogue: 0,0:01:09.54,0:01:14.66,Default,,0,0,0,,On Valentine's Day, I'll give you\Nthe bitterest chocolate ever!
+Dialogue: 0,0:02:49.08,0:02:52.04,Default,,0,0,0,,Is something wrong, Brother?
+Dialogue: 0,0:02:53.04,0:02:55.66,Default,,0,0,0,,No, it's nothing.
+Dialogue: 0,0:03:04.95,0:03:06.79,Default,,0,0,0,,Hello? Shizuku?
+Dialogue: 0,0:03:06.79,0:03:08.37,Default,,0,0,0,,What's up?
+Dialogue: 0,0:03:09.74,0:03:11.87,Default,,0,0,0,,Has something happened?
+Dialogue: 0,0:03:12.79,0:03:16.45,Default,,0,0,0,,Shizuku? Why are you dressed like that?
+Dialogue: 0,0:03:16.45,0:03:19.49,Default,,0,0,0,,Good evening, Tatsuya and Miyuki.
+Dialogue: 0,0:03:19.49,0:03:21.62,Default,,0,0,0,,Oh, never mind the greetings!
+Dialogue: 0,0:03:21.62,0:03:23.95,Default,,0,0,0,,At least put a robe on!
+Dialogue: 0,0:03:23.95,0:03:26.20,Default,,0,0,0,,If you insist...
+Dialogue: 0,0:03:32.24,0:03:34.04,Default,,0,0,0,,Um...
+Dialogue: 0,0:03:34.04,0:03:36.87,Default,,0,0,0,,Sorry to call you so late.
+Dialogue: 0,0:03:36.87,0:03:39.33,Default,,0,0,0,,It's not especially late here.
+Dialogue: 0,0:03:39.33,0:03:41.79,Default,,0,0,0,,Have you been drinking?
+Dialogue: 0,0:03:41.79,0:03:43.95,Default,,0,0,0,,Alcohol?
+Dialogue: 0,0:03:43.95,0:03:45.87,Default,,0,0,0,,No.
+Dialogue: 0,0:03:45.87,0:03:47.33,Default,,0,0,0,,I see.
+Dialogue: 0,0:03:47.33,0:03:49.58,Default,,0,0,0,,Anyway, what's going on?
+Dialogue: 0,0:03:50.20,0:03:55.04,Default,,0,0,0,,I thought I should tell you\Nas soon as possible.
+Dialogue: 0,0:03:55.04,0:03:57.45,Default,,0,0,0,,You already have something? That's great.
+Dialogue: 0,0:03:57.45,0:03:59.74,Default,,0,0,0,,Praise me some more.
+Dialogue: 0,0:03:59.74,0:04:03.33,Default,,0,0,0,,You're really impressive, Shizuku.
+Dialogue: 0,0:04:03.33,0:04:05.95,Default,,0,0,0,,So, what did you learn?
+Dialogue: 0,0:04:05.95,0:04:09.70,Default,,0,0,0,,It's about why the parasites appeared.
+Dialogue: 0,0:04:10.29,0:04:12.08,Default,,0,0,0,,What was it?
+Dialogue: 0,0:04:12.08,0:04:16.58,Default,,0,0,0,,An experiment to create little dark holes.
+Dialogue: 0,0:04:16.58,0:04:20.37,Default,,0,0,0,,Dark holes?\NShizuku, what does that mean?
+Dialogue: 0,0:04:20.37,0:04:26.08,Default,,0,0,0,,I don't know.\NI thought I'd ask Tatsuya.
+Dialogue: 0,0:04:26.08,0:04:28.37,Default,,0,0,0,,An experiment\Nbased on extradimensional theory
+Dialogue: 0,0:04:28.37,0:04:32.62,Default,,0,0,0,,to generate and evaporate\Nmicro black holes, right?
+Dialogue: 0,0:04:32.62,0:04:35.04,Default,,0,0,0,,Yes, that's it.
+Dialogue: 0,0:04:35.04,0:04:36.91,Default,,0,0,0,,So, something like that happened.
+Dialogue: 0,0:04:38.41,0:04:40.87,Default,,0,0,0,,What is it?
+Dialogue: 0,0:04:40.87,0:04:42.54,Default,,0,0,0,,Put simply...
+Dialogue: 0,0:04:42.54,0:04:46.16,Default,,0,0,0,,the experiment was to artificially\Ncreate a very small black hole
+Dialogue: 0,0:04:46.16,0:04:49.87,Default,,0,0,0,,and harness energy from it.
+Dialogue: 0,0:04:49.87,0:04:53.33,Default,,0,0,0,,Is that extradimensional theory?
+Dialogue: 0,0:04:53.33,0:04:56.66,Default,,0,0,0,,Taking energy from other dimensions?
+Dialogue: 0,0:04:56.66,0:05:02.54,Default,,0,0,0,,No, extradimensional theory isn't related\Nto the actual process of harnessing the energy.
+Dialogue: 0,0:05:02.54,0:05:04.95,Default,,0,0,0,,Extradimensional theory postulates
+Dialogue: 0,0:05:04.95,0:05:08.49,Default,,0,0,0,,that our universe is like a thin film\Nof three-dimensional space
+Dialogue: 0,0:05:08.49,0:05:11.79,Default,,0,0,0,,enclosed within a higher-dimensional world
+Dialogue: 0,0:05:11.79,0:05:16.29,Default,,0,0,0,,where the only physical force that can\Novercome the dimensional walls is gravity.
+Dialogue: 0,0:05:16.29,0:05:17.79,Default,,0,0,0,,Put another way, the theory is that
+Dialogue: 0,0:05:17.79,0:05:21.70,Default,,0,0,0,,because gravity leaks a large portion\Nof its energy into other dimensions,
+Dialogue: 0,0:05:21.70,0:05:27.79,Default,,0,0,0,,we can only observe it in this dimension\Nas a much weaker force than it actually is.
+Dialogue: 0,0:05:30.16,0:05:32.54,Default,,0,0,0,,Miyuki, did you get that?
+Dialogue: 0,0:05:32.54,0:05:36.54,Default,,0,0,0,,Unfortunately,\Nit was a little over my head.
+Dialogue: 0,0:05:36.54,0:05:38.37,Default,,0,0,0,,But Brother...
+Dialogue: 0,0:05:38.37,0:05:43.33,Default,,0,0,0,,what does that have to do\Nwith the parasites?
+Dialogue: 0,0:05:43.33,0:05:47.24,Default,,0,0,0,,Magic isn't constrained\Nby the law of conservation of energy.
+Dialogue: 0,0:05:47.24,0:05:53.49,Default,,0,0,0,,You know that it looks like magic refutes\Nthe law of energy conservation, right?
+Dialogue: 0,0:05:53.49,0:05:57.91,Default,,0,0,0,,They call that proposition\N"the First Paradox of Modern Magic," right?
+Dialogue: 0,0:05:57.91,0:06:01.33,Default,,0,0,0,,But that prop'sition, um...
+Dialogue: 0,0:06:01.33,0:06:07.49,Default,,0,0,0,,The propersition itself\Nwas conclud'd to be imcomplete.
+Dialogue: 0,0:06:07.49,0:06:10.79,Default,,0,0,0,,Correct. Regarding the law\Nof energy conservation,
+Dialogue: 0,0:06:10.79,0:06:16.70,Default,,0,0,0,,in a closed system, the total amount\Nof energy remains the same.
+Dialogue: 0,0:06:16.70,0:06:19.95,Default,,0,0,0,,If you did observe a variation\Nin the total amount of energy,
+Dialogue: 0,0:06:19.95,0:06:26.37,Default,,0,0,0,,it'd mean you've either made an observational\Nerror or that the system wasn't closed.
+Dialogue: 0,0:06:26.37,0:06:30.83,Default,,0,0,0,,This world, in which magic is observed,\Nisn't a closed system.
+Dialogue: 0,0:06:30.83,0:06:34.74,Default,,0,0,0,,That seems related to the extradimensional\Ntheory you explained before.
+Dialogue: 0,0:06:34.74,0:06:36.20,Default,,0,0,0,,I get it.
+Dialogue: 0,0:06:36.20,0:06:42.16,Default,,0,0,0,,Then, the energy magic needsh\Nis shupplied from another dimension?
+Dialogue: 0,0:06:42.16,0:06:46.62,Default,,0,0,0,,Recently, there are an increasing number\Nof magical researchers who subscribe to that.
+Dialogue: 0,0:06:46.62,0:06:49.20,Default,,0,0,0,,I happen to agree.
+Dialogue: 0,0:06:49.20,0:06:54.37,Default,,0,0,0,,What I'm about to say is a hypothesis\Nthat has no proof to support it, but...
+Dialogue: 0,0:06:55.49,0:06:58.12,Default,,0,0,0,,Gravity acts on another dimension.
+Dialogue: 0,0:06:58.12,0:07:02.99,Default,,0,0,0,,Wouldn't that mean it supports the walls\Nbetween dimensions by doing so? Perhaps...
+Dialogue: 0,0:07:04.54,0:07:11.70,Default,,0,0,0,,...magic is drawing energy from a different\Ndimension without breaking that wall.
+Dialogue: 0,0:07:13.37,0:07:14.79,Default,,0,0,0,,However,
+Dialogue: 0,0:07:14.79,0:07:20.66,Default,,0,0,0,,if you generate a micro black hole using energy\Ncalculated based on extradimensional theory,
+Dialogue: 0,0:07:20.66,0:07:26.45,Default,,0,0,0,,gravity acting across the dimensional wall\Nwould be erased by the black hole's generation.
+Dialogue: 0,0:07:26.45,0:07:29.79,Default,,0,0,0,,When that happens,\Nfor the instant the black hole is generated,
+Dialogue: 0,0:07:29.79,0:07:32.45,Default,,0,0,0,,perhaps the dimensional wall\Nwould end up wavering.
+Dialogue: 0,0:07:34.16,0:07:37.91,Default,,0,0,0,,What would happen\Nif the dimensional wall wavered?
+Dialogue: 0,0:07:37.91,0:07:44.74,Default,,0,0,0,,Magical energy you can't control\Nwith magic programsh will leak through?
+Dialogue: 0,0:07:48.74,0:07:51.08,Default,,0,0,0,,At the moment\Nthe dimensional wall wavers,
+Dialogue: 0,0:07:51.08,0:07:54.49,Default,,0,0,0,,information bodies of magical energy\Nformed in that other dimension
+Dialogue: 0,0:07:54.49,0:07:56.91,Default,,0,0,0,,could potentially invade our world.
+Dialogue: 0,0:07:56.91,0:07:59.54,Default,,0,0,0,,In my opinion.
+Dialogue: 0,0:08:01.37,0:08:03.24,Default,,0,0,0,,Brother...
+Dialogue: 0,0:08:07.91,0:08:10.26,Default,,0,0,0,,{\fs41\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(448,92)\clip(146,42,346,156)\t(0,110,\clip(146,42,760,158))}JANUARY 23, 2096 - FIRST HIGH SCHOOL
+Dialogue: 0,0:08:07.91,0:08:11.12,Default,,0,0,0,,It was running away alone\Nthe whole time...
+Dialogue: 0,0:08:11.12,0:08:14.74,Default,,0,0,0,,but suddenly, there were three of them!\NDon't you think that's unfair?
+Dialogue: 0,0:08:14.74,0:08:17.54,Default,,0,0,0,,Um, I suppose.
+Dialogue: 0,0:08:17.54,0:08:21.66,Default,,0,0,0,,Is she referring to the parasites?
+Dialogue: 0,0:08:21.66,0:08:25.29,Default,,0,0,0,,Say, Erika, are you fighting with Tatsuya?
+Dialogue: 0,0:08:25.29,0:08:27.70,Default,,0,0,0,,Wh-What are you talking about, Mizuki?
+Dialogue: 0,0:08:27.70,0:08:31.41,Default,,0,0,0,,Of course we're not fighting!\NWe're good! Totally fine!
+Dialogue: 0,0:08:31.41,0:08:34.91,Default,,0,0,0,,You don't have to get worked up about it.
+Dialogue: 0,0:08:34.91,0:08:37.54,Default,,0,0,0,,We're not fighting.
+Dialogue: 0,0:08:37.54,0:08:41.24,Default,,0,0,0,,It's just gotten awkward for me.
+Dialogue: 0,0:08:41.24,0:08:46.49,Default,,0,0,0,,When all is said and done,\NI just depend on Tatsuya too much.
+Dialogue: 0,0:08:46.49,0:08:51.66,Default,,0,0,0,,I didn't say anything\Nbut just assumed he'd come with us.
+Dialogue: 0,0:08:51.66,0:08:54.33,Default,,0,0,0,,That's why when I saw him helping that girl,
+Dialogue: 0,0:08:54.33,0:08:57.87,Default,,0,0,0,,I got ticked off and felt\Nlike calling him a two-timer.
+Dialogue: 0,0:08:59.58,0:09:03.58,Default,,0,0,0,,I wish I could crawl into a hole!
+Dialogue: 0,0:09:03.58,0:09:07.54,Default,,0,0,0,,What's with that sigh as if to say,\N"I'm utterly exasperated"?
+Dialogue: 0,0:09:07.54,0:09:10.70,Default,,0,0,0,,I wouldn't say "utterly,"\Nbut I am exasperated.
+Dialogue: 0,0:09:11.45,0:09:13.91,Default,,0,0,0,,I thought I'd find you here.
+Dialogue: 0,0:09:13.91,0:09:16.08,Default,,0,0,0,,Here, sandwiches.
+Dialogue: 0,0:09:16.08,0:09:18.70,Default,,0,0,0,,Th-Thank you.
+Dialogue: 0,0:09:18.99,0:09:20.87,Default,,0,0,0,,That's mighty thoughtful of you, Miki.
+Dialogue: 0,0:09:20.87,0:09:23.70,Default,,0,0,0,,No, they're from Tatsuya.
+Dialogue: 0,0:09:24.20,0:09:28.33,Default,,0,0,0,,He said you seemed to be avoiding him\Nand told me to bring them.
+Dialogue: 0,0:09:28.33,0:09:31.16,Default,,0,0,0,,You see?\NHe hasn't forgotten you, Erika.
+Dialogue: 0,0:09:31.16,0:09:33.87,Default,,0,0,0,,You've been left behind already.
+Dialogue: 0,0:09:35.62,0:09:37.62,Default,,0,0,0,,Miki!
+Dialogue: 0,0:09:55.33,0:09:57.41,Default,,0,0,0,,What is this?
+Dialogue: 0,0:09:57.41,0:10:00.95,Default,,0,0,0,,I've never seen an aura like this before.
+Dialogue: 0,0:10:06.24,0:10:08.41,Default,,0,0,0,,It's okay now, Shibata.
+Dialogue: 0,0:10:08.41,0:10:10.41,Default,,0,0,0,,Put your glasses back on.
+Dialogue: 0,0:10:12.79,0:10:15.95,Default,,0,0,0,,It's an evil presence.
+Dialogue: 0,0:10:15.95,0:10:18.58,Default,,0,0,0,,A parasite is in the school?
+Dialogue: 0,0:10:18.58,0:10:21.16,Default,,0,0,0,,For what?
+Dialogue: 0,0:10:21.16,0:10:23.79,Default,,0,0,0,,It's got guts, I'll give it that!
+Dialogue: 0,0:10:23.79,0:10:25.62,Default,,0,0,0,,Miki, where is it?
+Dialogue: 0,0:10:25.62,0:10:27.74,Default,,0,0,0,,Erika, calm down.
+Dialogue: 0,0:10:27.74,0:10:30.24,Default,,0,0,0,,First, let's get our CADs.
+Dialogue: 0,0:10:30.24,0:10:33.79,Default,,0,0,0,,Then, we'd better contact the upperclassmen.
+Dialogue: 0,0:10:33.79,0:10:35.54,Default,,0,0,0,,You're right.
+Dialogue: 0,0:10:35.54,0:10:39.49,Default,,0,0,0,,Mizuki, wait in the classroom.
+Dialogue: 0,0:10:39.49,0:10:41.16,Default,,0,0,0,,I'm going, too.
+Dialogue: 0,0:10:41.16,0:10:42.29,Default,,0,0,0,,Mizuki?
+Dialogue: 0,0:10:42.99,0:10:46.62,Default,,0,0,0,,I have a feeling that I should go with you.
+Dialogue: 0,0:10:46.62,0:10:49.49,Default,,0,0,0,,I don't know why, though.
+Dialogue: 0,0:10:51.12,0:10:53.24,Default,,0,0,0,,Okay.
+Dialogue: 0,0:10:53.24,0:10:55.49,Default,,0,0,0,,But don't leave my side.
+Dialogue: 0,0:10:55.49,0:10:56.74,Default,,0,0,0,,Miki?
+Dialogue: 0,0:10:56.74,0:11:01.66,Default,,0,0,0,,It'll be easier to deal with it if we're\Ntogether than if it attacks her alone.
+Dialogue: 0,0:11:01.66,0:11:04.95,Default,,0,0,0,,Besides, Shibata's eyes\Nshould come in handy.
+Dialogue: 0,0:11:09.24,0:11:14.74,Default,,0,0,0,,Then, take responsibility\Nand protect her, Miki!
+Dialogue: 0,0:11:14.74,0:11:17.04,Default,,0,0,0,,You don't have to tell me that.
+Dialogue: 0,0:11:20.83,0:11:22.91,Default,,0,0,0,,Let's go, Shibata!
+Dialogue: 0,0:11:27.83,0:11:29.12,Default,,0,0,0,,Right!
+Dialogue: 0,0:11:31.62,0:11:34.74,Default,,0,0,0,,I sense a parasite!
+Dialogue: 0,0:11:34.74,0:11:36.91,Default,,0,0,0,,Mia's by the side entrance!
+Dialogue: 0,0:11:43.20,0:11:44.54,Default,,0,0,0,,Huh?
+Dialogue: 0,0:11:46.45,0:11:47.95,Default,,0,0,0,,It can't be!
+Dialogue: 0,0:11:48.54,0:11:51.95,Default,,0,0,0,,Miyuki, what's wrong?
+Dialogue: 0,0:11:51.95,0:11:56.62,Default,,0,0,0,,I felt an unpleasant wave\Nas though it grazed my skin.
+Dialogue: 0,0:11:56.62,0:11:58.37,Default,,0,0,0,,An unpleasant wave?
+Dialogue: 0,0:11:58.37,0:12:01.70,Default,,0,0,0,,Was it a Psionic wave or a Pushion wave?
+Dialogue: 0,0:12:01.70,0:12:03.54,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:12:03.54,0:12:08.79,Default,,0,0,0,,But if you didn't notice it, Brother,\Nthen I suspect a Pushion.
+Dialogue: 0,0:12:08.79,0:12:11.20,Default,,0,0,0,,Could it be a parasite?
+Dialogue: 0,0:12:12.79,0:12:13.87,Default,,0,0,0,,Yes.
+Dialogue: 0,0:12:13.87,0:12:15.70,Default,,0,0,0,,Tatsuya, it's terrible!
+Dialogue: 0,0:12:15.70,0:12:17.41,Default,,0,0,0,,Saegusa...
+Dialogue: 0,0:12:17.41,0:12:19.29,Default,,0,0,0,,Do you know the exact location?
+Dialogue: 0,0:12:19.29,0:12:21.58,Default,,0,0,0,,It helps that I don't have to explain.
+Dialogue: 0,0:12:21.58,0:12:24.91,Default,,0,0,0,,The signal is moving from the side entrance
+Dialogue: 0,0:12:24.91,0:12:26.99,Default,,0,0,0,,toward the lab building's\Nservice entrance for materials.
+Dialogue: 0,0:12:26.99,0:12:33.20,Default,,0,0,0,,Maximillian employees were scheduled to do\Na demo for a new measuring device today.
+Dialogue: 0,0:12:33.20,0:12:34.91,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:12:41.58,0:12:44.83,Default,,0,0,0,,Honoka, I'm going with my brother.
+Dialogue: 0,0:12:45.41,0:12:47.58,Default,,0,0,0,,Tatsuya! Miyuki!
+Dialogue: 0,0:12:47.58,0:12:52.04,Default,,0,0,0,,Don't leave me here all alone!
+Dialogue: 0,0:12:53.45,0:12:55.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1163FA&\pos(702,68)}VISITOR ARC V
+Dialogue: 0,0:13:04.41,0:13:05.95,Default,,0,0,0,,Lina?
+Dialogue: 0,0:13:08.91,0:13:10.08,Default,,0,0,0,,Mia!
+Dialogue: 0,0:13:11.24,0:13:13.04,Default,,0,0,0,,Major...
+Dialogue: 0,0:13:13.04,0:13:14.87,Default,,0,0,0,,Who's she?
+Dialogue: 0,0:13:20.12,0:13:21.91,Default,,0,0,0,,That's...
+Dialogue: 0,0:13:25.66,0:13:26.79,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:13:26.79,0:13:29.24,Default,,0,0,0,,Oh, it's nothing.
+Dialogue: 0,0:13:29.24,0:13:35.62,Default,,0,0,0,,She swatted at spirits no normal magician\Nshould have been able to see.
+Dialogue: 0,0:13:35.62,0:13:38.16,Default,,0,0,0,,She's definitely a parasite!
+Dialogue: 0,0:13:39.58,0:13:40.95,Default,,0,0,0,,Lina...
+Dialogue: 0,0:13:40.95,0:13:44.24,Default,,0,0,0,,I see. Then, she's an accomplice!
+Dialogue: 0,0:13:44.24,0:13:47.45,Default,,0,0,0,,I'll throw up a barrier\Nto block vision and hearing.
+Dialogue: 0,0:13:47.45,0:13:49.37,Default,,0,0,0,,It won't fool machines, but...
+Dialogue: 0,0:13:49.37,0:13:52.58,Default,,0,0,0,,I'll do something about that.
+Dialogue: 0,0:13:52.58,0:13:54.79,Default,,0,0,0,,Erika, not yet.
+Dialogue: 0,0:13:54.79,0:13:56.62,Default,,0,0,0,,I know.
+Dialogue: 0,0:14:05.62,0:14:07.29,Default,,0,0,0,,Here it goes.
+Dialogue: 0,0:14:12.58,0:14:14.83,Default,,0,0,0,,Is that a barrier?
+Dialogue: 0,0:14:14.83,0:14:18.87,Default,,0,0,0,,Mikihiko. He's quite skilled.
+Dialogue: 0,0:14:18.87,0:14:22.49,Default,,0,0,0,,Its effects are visual\Nand auditory deprivation.
+Dialogue: 0,0:14:22.49,0:14:26.16,Default,,0,0,0,,It won't prevent\Nthe actual object from moving.
+Dialogue: 0,0:14:28.49,0:14:31.04,Default,,0,0,0,,What is this? Are we surrounded?
+Dialogue: 0,0:14:34.16,0:14:35.29,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:14:37.33,0:14:37.94,Default,,0,0,0,,Crap!
+Dialogue: 0,0:14:37.94,0:14:39.83,Default,,0,0,0,,Erika?
+Dialogue: 0,0:14:44.83,0:14:47.37,Default,,0,0,0,,What do you think you're doing, Erika?
+Dialogue: 0,0:14:52.04,0:14:55.70,Default,,0,0,0,,Katsuto Jumonji?
+Dialogue: 0,0:14:55.70,0:14:57.79,Default,,0,0,0,,Mia!
+Dialogue: 0,0:15:02.87,0:15:05.04,Default,,0,0,0,,She caught it with her bare hand!
+Dialogue: 0,0:15:05.04,0:15:07.95,Default,,0,0,0,,And that was a powerful stroke!
+Dialogue: 0,0:15:07.95,0:15:09.54,Default,,0,0,0,,Mia?
+Dialogue: 0,0:15:09.54,0:15:11.45,Default,,0,0,0,,Lina, can you hear me?
+Dialogue: 0,0:15:11.45,0:15:12.83,Default,,0,0,0,,Silvie?
+Dialogue: 0,0:15:12.83,0:15:14.74,Default,,0,0,0,,Thank goodness, I finally got through!
+Dialogue: 0,0:15:14.74,0:15:17.91,Default,,0,0,0,,I've discovered who White Mask is!
+Dialogue: 0,0:15:17.91,0:15:19.45,Default,,0,0,0,,It was Mia!
+Dialogue: 0,0:15:19.45,0:15:22.74,Default,,0,0,0,,The person behind the white mask\Nis Mikaela Hongou!
+Dialogue: 0,0:15:24.37,0:15:25.95,Default,,0,0,0,,Mia!
+Dialogue: 0,0:15:25.95,0:15:28.49,Default,,0,0,0,,You were the one in the white mask?
+Dialogue: 0,0:15:32.62,0:15:34.79,Default,,0,0,0,,What, now you wanna fight?
+Dialogue: 0,0:15:52.16,0:15:55.24,Default,,0,0,0,,Healing Magic?\NShe healed that wound instantly?
+Dialogue: 0,0:15:55.24,0:15:58.29,Default,,0,0,0,,It looks like we're dealing\Nwith a real monster.
+Dialogue: 0,0:15:58.29,0:16:01.12,Default,,0,0,0,,In that case, how about this?
+Dialogue: 0,0:16:06.16,0:16:07.45,Default,,0,0,0,,Shucks.
+Dialogue: 0,0:16:07.45,0:16:10.70,Default,,0,0,0,,That was so quick, Miyuki.
+Dialogue: 0,0:16:10.70,0:16:13.66,Default,,0,0,0,,Lina, she seems to be\Nan acquaintance of yours...
+Dialogue: 0,0:16:13.66,0:16:15.87,Default,,0,0,0,,but we'll be taking her.
+Dialogue: 0,0:16:18.37,0:16:19.54,Default,,0,0,0,,Fine.
+Dialogue: 0,0:16:19.54,0:16:21.87,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:16:21.87,0:16:24.79,Default,,0,0,0,,You can't just take her away.
+Dialogue: 0,0:16:24.79,0:16:27.04,Default,,0,0,0,,If this is the woman who hurt Leo,
+Dialogue: 0,0:16:27.04,0:16:30.83,Default,,0,0,0,,I won't give her to anyone else,\Nnot even you.
+Dialogue: 0,0:16:32.04,0:16:35.83,Default,,0,0,0,,As long as you share\Nwhat you come up with.
+Dialogue: 0,0:16:35.83,0:16:38.91,Default,,0,0,0,,I'll contact you.
+Dialogue: 0,0:16:38.91,0:16:40.79,Default,,0,0,0,,Jumonji...
+Dialogue: 0,0:16:40.79,0:16:42.91,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:16:44.24,0:16:45.87,Default,,0,0,0,,Look out!
+Dialogue: 0,0:16:53.04,0:16:54.66,Default,,0,0,0,,Still frozen.
+Dialogue: 0,0:16:54.66,0:16:58.08,Default,,0,0,0,,She can't be conscious,\Nlet alone use magic.
+Dialogue: 0,0:16:58.45,0:16:59.12,Default,,0,0,0,,Is that...
+Dialogue: 0,0:16:59.12,0:17:00.87,Default,,0,0,0,,Self-destruct?
+Dialogue: 0,0:17:00.87,0:17:02.83,Default,,0,0,0,,Get down!
+Dialogue: 0,0:17:13.91,0:17:16.12,Default,,0,0,0,,Ball lightning?
+Dialogue: 0,0:17:34.45,0:17:38.58,Default,,0,0,0,,There's no sign of a caster.
+Dialogue: 0,0:17:51.70,0:17:55.62,Default,,0,0,0,,That must be the parasite!
+Dialogue: 0,0:17:55.62,0:17:57.37,Default,,0,0,0,,That's strange.
+Dialogue: 0,0:17:57.37,0:17:59.79,Default,,0,0,0,,Why doesn't it run?
+Dialogue: 0,0:18:00.99,0:18:03.45,Default,,0,0,0,,Why do you think, Shiba?
+Dialogue: 0,0:18:03.45,0:18:07.12,Default,,0,0,0,,I don't know whether\Nit's deliberate or instinctual...
+Dialogue: 0,0:18:07.12,0:18:10.58,Default,,0,0,0,,but it seems to have a reason\Nfor keeping us here.
+Dialogue: 0,0:18:11.74,0:18:13.91,Default,,0,0,0,,Lina, you got anything?
+Dialogue: 0,0:18:13.91,0:18:18.66,Default,,0,0,0,,Parasites possess humans and alter them.
+Dialogue: 0,0:18:18.66,0:18:20.16,Default,,0,0,0,,Searching for a host
+Dialogue: 0,0:18:20.16,0:18:24.12,Default,,0,0,0,,is apparently their behavioral principle,\Nequivalent to a self-preservation instinct.
+Dialogue: 0,0:18:24.12,0:18:25.58,Default,,0,0,0,,In other words,
+Dialogue: 0,0:18:25.58,0:18:28.54,Default,,0,0,0,,it's looking for the next person\Nto possess?
+Dialogue: 0,0:18:29.79,0:18:31.12,Default,,0,0,0,,Probably.
+Dialogue: 0,0:18:31.12,0:18:32.49,Default,,0,0,0,,How?
+Dialogue: 0,0:18:32.49,0:18:36.04,Default,,0,0,0,,That's what I'd like to know.
+Dialogue: 0,0:18:36.04,0:18:37.41,Default,,0,0,0,,Useless...
+Dialogue: 0,0:18:37.41,0:18:39.33,Default,,0,0,0,,Well, excuse me!
+Dialogue: 0,0:18:40.37,0:18:41.91,Default,,0,0,0,,This is bad.
+Dialogue: 0,0:18:41.91,0:18:43.70,Default,,0,0,0,,It's after Erika!
+Dialogue: 0,0:18:44.99,0:18:48.87,Default,,0,0,0,,Did it detect that Erika doesn't have\Nany way to resist it?
+Dialogue: 0,0:18:48.87,0:18:52.83,Default,,0,0,0,,If I at least knew where it is now,\NI could do something, but...
+Dialogue: 0,0:18:54.45,0:18:58.41,Default,,0,0,0,,Yoshida, please undo the barrier.
+Dialogue: 0,0:18:58.41,0:19:00.66,Default,,0,0,0,,Shibata, what are you...
+Dialogue: 0,0:19:00.66,0:19:03.49,Default,,0,0,0,,I might be able to tell where it is.
+Dialogue: 0,0:19:04.62,0:19:07.20,Default,,0,0,0,,Forget it. It would be too much for you.
+Dialogue: 0,0:19:07.20,0:19:10.62,Default,,0,0,0,,There's no telling what'll happen if you look\Ndirectly at it now that its energy is released.
+Dialogue: 0,0:19:10.62,0:19:13.99,Default,,0,0,0,,Worst-case, you could go blind.
+Dialogue: 0,0:19:13.99,0:19:18.45,Default,,0,0,0,,When I chose to be a magician,\NI was prepared for the risks.
+Dialogue: 0,0:19:18.45,0:19:20.87,Default,,0,0,0,,Erika's in danger, isn't she?
+Dialogue: 0,0:19:20.87,0:19:24.04,Default,,0,0,0,,If I can't help her now...
+Dialogue: 0,0:19:24.04,0:19:26.83,Default,,0,0,0,,there's no reason for me to be here.
+Dialogue: 0,0:19:29.04,0:19:30.58,Default,,0,0,0,,Okay.
+Dialogue: 0,0:19:34.12,0:19:36.79,Default,,0,0,0,,Put this around your neck.
+Dialogue: 0,0:19:36.79,0:19:40.33,Default,,0,0,0,,If you think you're in danger,\Ncover your eyes with it.
+Dialogue: 0,0:19:40.33,0:19:44.16,Default,,0,0,0,,It should be more effective\Nthan your glasses.
+Dialogue: 0,0:19:47.83,0:19:49.24,Default,,0,0,0,,Like this?
+Dialogue: 0,0:19:49.24,0:19:50.74,Default,,0,0,0,,Promise me.
+Dialogue: 0,0:19:50.74,0:19:52.54,Default,,0,0,0,,Promise me you won't do\Nanything reckless.
+Dialogue: 0,0:19:53.87,0:19:59.41,Default,,0,0,0,,Erika wouldn't want anyone\Nto sacrifice themselves for her.
+Dialogue: 0,0:20:01.37,0:20:02.91,Default,,0,0,0,,I promise.
+Dialogue: 0,0:20:04.54,0:20:06.12,Default,,0,0,0,,Here it goes.
+Dialogue: 0,0:20:06.12,0:20:07.20,Default,,0,0,0,,Ready!
+Dialogue: 0,0:20:23.49,0:20:24.99,Default,,0,0,0,,That's...
+Dialogue: 0,0:20:24.99,0:20:26.54,Default,,0,0,0,,the parasite!
+Dialogue: 0,0:20:27.95,0:20:29.29,Default,,0,0,0,,Over there!
+Dialogue: 0,0:20:30.66,0:20:33.16,Default,,0,0,0,,About two meters above Erika!
+Dialogue: 0,0:20:33.16,0:20:36.45,Default,,0,0,0,,One meter to the right,\N50 centimeters behind!
+Dialogue: 0,0:20:36.45,0:20:39.49,Default,,0,0,0,,There's a point of contact there\Nthat the monster is using!
+Dialogue: 0,0:20:39.49,0:20:41.04,Default,,0,0,0,,Anti-demon spell...
+Dialogue: 0,0:20:41.04,0:20:42.29,Default,,0,0,0,,Garudaflame!
+Dialogue: 0,0:20:46.37,0:20:48.49,Default,,0,0,0,,Mikihiko's Spirit Magic...
+Dialogue: 0,0:20:50.04,0:20:53.24,Default,,0,0,0,,Before, I was unable to get more\Nthan a vague impression of the parasite,
+Dialogue: 0,0:20:53.24,0:20:56.04,Default,,0,0,0,,but I can see it clearly now.
+Dialogue: 0,0:20:56.04,0:20:58.08,Default,,0,0,0,,By Mizuki perceiving it...
+Dialogue: 0,0:20:58.08,0:21:01.91,Default,,0,0,0,,has its existence in the physical dimension\Nbeen strengthened?
+Dialogue: 0,0:21:01.91,0:21:03.83,Default,,0,0,0,,If so...
+Dialogue: 0,0:21:03.83,0:21:05.91,Default,,0,0,0,,then Mizuki is in danger now!
+Dialogue: 0,0:21:10.08,0:21:11.00,Default,,0,0,0,,It's coming!
+Dialogue: 0,0:21:11.00,0:21:12.20,Default,,0,0,0,,Shibata!
+Dialogue: 0,0:21:12.20,0:21:13.99,Default,,0,0,0,,Where is it?
+Dialogue: 0,0:21:17.91,0:21:19.70,Default,,0,0,0,,There!
+Dialogue: 0,0:21:34.99,0:21:36.70,Default,,0,0,0,,Tatsuya!
+Dialogue: 0,0:21:41.95,0:21:43.83,Default,,0,0,0,,It got away.
+Dialogue: 0,0:21:43.83,0:21:46.08,Default,,0,0,0,,We must've hurt it.
+Dialogue: 0,0:21:46.08,0:21:50.66,Default,,0,0,0,,And we should be thankful\Nnone of us got hurt this time.
+Dialogue: 0,0:21:53.33,0:21:58.54,Default,,0,0,0,,If I'd used Gram Demolition then,\Nthe parasite would've been blown away.
+Dialogue: 0,0:21:58.54,0:22:01.62,Default,,0,0,0,,But I didn't, and it got away.
+Dialogue: 0,0:22:01.62,0:22:04.41,Default,,0,0,0,,I knew that.
+Dialogue: 0,0:22:04.41,0:22:07.45,Default,,0,0,0,,From the perspective\Nof combat objective completion,
+Dialogue: 0,0:22:07.45,0:22:12.99,Default,,0,0,0,,the end result is that we barely\Nmanaged not to lose anything.
+Dialogue: 0,0:22:15.66,0:22:17.58,Default,,0,0,0,,What a disgrace.
+Dialogue: 0,0:23:48.45,0:23:52.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1163FA&\pos(702,68)}VISITOR ARC VI
